@@ -1,1 +1,1 @@
-eureka-registry
+eureka-registry-test
